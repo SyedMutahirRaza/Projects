@@ -1,3 +1,2 @@
-var a = 'Smutahirraza';
-var b = 'Variable';
-console.log(a, b);
+var aa = 'Syed Mutahir Raza';
+console.log('"Hello', aa, '\n', 'Would you like to learn some phyton today?"');

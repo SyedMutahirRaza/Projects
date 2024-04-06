@@ -1,3 +1,2 @@
-let a:string = 'Smutahirraza';
-let b = 'Variable';
-console.log(a, b);
+let aa:string = 'Syed Mutahir Raza'
+console.log ('"Hello',aa,'\n','Would you like to learn some phyton today?"')
