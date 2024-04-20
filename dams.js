@@ -14,3 +14,6 @@ a = 64;
 b = 8;
 var Division = a / b;
 console.log('Division of', a, '/', b, '=', Multiplication);
+
+
+

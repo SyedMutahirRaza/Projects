@@ -14,4 +14,7 @@ a=64;
 b=8;
 let Division=a/b;
 console.log('Division of', a, '/', b ,'=', Multiplication)
+//Mod is basically remainder like 12 divide by 5 is 10 and 12-10 =2
+let mod = 12%5;
+console.log(mod);
 
